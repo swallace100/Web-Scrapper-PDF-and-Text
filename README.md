@@ -1,4 +1,4 @@
-# Web Scrapper - PDF and- ext
+# Web Scrapper - PDF and Page Text
 
 This application uses the Puppeteer library in node.js to scrape data from websites.
 
