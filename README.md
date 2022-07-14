@@ -1,6 +1,6 @@
-# Web-Scrapper---PDF-and-Text
+# Web Scrapper - PDF and- ext
 
-This application uses the Puppeteer library to scrape data from websites.
+This application uses the Puppeteer library in node.js to scrape data from websites.
 
 It will save a full PDF of the selected website and save the text from the defined page division id.
 
